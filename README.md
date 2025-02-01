@@ -113,14 +113,6 @@ Example output:
 
 ---
 
-## Future Enhancements
-
-🚀 Add support for logging to files\
-🚀 Implement a configuration file for default settings\
-🚀 Enable log rotation to manage file sizes
-
----
-
 ## Author
 
 👨‍💻 **Mohamed Hamam**
